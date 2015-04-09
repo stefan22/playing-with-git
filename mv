@@ -1,0 +1,8 @@
+mv 
+  It allows you to move a file from one location to another. 
+  It takes two parameters:
+    -the file that you want to move and its location
+    -new path to move to and file
+  
+  example
+    mv file ../file
